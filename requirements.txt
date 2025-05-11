@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+matplotlib
+scikit-image
+kornia
+numpy
+tqdm
+pillow
+ipython
+jupyter
