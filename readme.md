@@ -1,4 +1,3 @@
-# AI-Powered Notebooks
 
 This repository includes two deep learning projects:
 
